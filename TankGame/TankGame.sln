@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{818E2E1B-0CE2-56BE-234E-0ED99E0E3913}") = "TankGame", "Assembly-CSharp-firstpass.csproj", "{CBFB5EAD-320B-CA9F-87BC-309B41AD456E}"
+EndProject
+Project("{818E2E1B-0CE2-56BE-234E-0ED99E0E3913}") = "TankGame", "Assembly-CSharp.csproj", "{5D3552FD-BC28-B6F8-0ED6-40F7075E067C}"
+EndProject
+Project("{818E2E1B-0CE2-56BE-234E-0ED99E0E3913}") = "TankGame", "Assembly-CSharp-Editor.csproj", "{1FA34030-7BF3-53C9-71B4-F569AAD71441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFB5EAD-320B-CA9F-87BC-309B41AD456E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFB5EAD-320B-CA9F-87BC-309B41AD456E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFB5EAD-320B-CA9F-87BC-309B41AD456E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFB5EAD-320B-CA9F-87BC-309B41AD456E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3552FD-BC28-B6F8-0ED6-40F7075E067C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3552FD-BC28-B6F8-0ED6-40F7075E067C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3552FD-BC28-B6F8-0ED6-40F7075E067C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3552FD-BC28-B6F8-0ED6-40F7075E067C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA34030-7BF3-53C9-71B4-F569AAD71441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA34030-7BF3-53C9-71B4-F569AAD71441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA34030-7BF3-53C9-71B4-F569AAD71441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA34030-7BF3-53C9-71B4-F569AAD71441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
